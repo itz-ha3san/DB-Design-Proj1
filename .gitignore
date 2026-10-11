@@ -1,0 +1,13 @@
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PostgreSQL dumps / local database files
+*.dump
+*.backup
+*.bak
